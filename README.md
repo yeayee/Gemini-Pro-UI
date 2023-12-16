@@ -4,4 +4,4 @@
 ## 怎么使用?
 下载 `gemini.html`, 用浏览器打开即可，
 
-*项目原始地址，笔者仅做了汉化，表示感谢~:* [zodiac online](https://faetalize.github.io/zodiac/zodiac.html)
+*笔者仅做了汉化，感谢项目原作者，原始地址:* [zodiac online](https://faetalize.github.io/zodiac/zodiac.html)
